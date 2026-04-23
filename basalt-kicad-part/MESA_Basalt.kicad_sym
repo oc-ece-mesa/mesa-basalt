@@ -61,20 +61,18 @@
 				)
 			)
 		)
-		(symbol "MESA_Basalt_0_1"
+		(symbol "MESA_Basalt_1_1"
 			(rectangle
 				(start -6.35 12.7)
 				(end 6.35 -12.7)
 				(stroke
 					(width 0)
-					(type default)
+					(type solid)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
-		)
-		(symbol "MESA_Basalt_1_1"
 			(pin bidirectional line
 				(at -8.89 10.16 0)
 				(length 2.54)
