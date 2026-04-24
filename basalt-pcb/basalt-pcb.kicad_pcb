@@ -3646,6 +3646,45 @@
 		(layer "Edge.Cuts")
 		(uuid "3e1d72ff-d81a-450f-bcf5-4f727248f4b8")
 	)
+	(gr_text "SWCLK"
+		(at 146.3 115 90)
+		(layer "F.SilkS")
+		(uuid "b4f4ea89-1993-41dd-a5e5-86651b346985")
+		(effects
+			(font
+				(size 1 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SWDIO\n"
+		(at 148.9 115 90)
+		(layer "F.SilkS")
+		(uuid "8dbc306c-3ce3-4775-ad13-e2f5552e6209")
+		(effects
+			(font
+				(size 1 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 151.4 115.1 90)
+		(layer "F.SilkS")
+		(uuid "979ee410-05e2-4e91-86b0-a7f1c4534d2f")
+		(effects
+			(font
+				(size 1 0.666)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "3v\n5v\n12\n11\n10"
 		(at 157.5 107.4 0)
 		(layer "F.SilkS")
@@ -3659,6 +3698,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "3V"
+		(at 153.9 115 90)
+		(layer "F.SilkS")
+		(uuid "a8ef3ae1-5809-4eca-a66b-fcbd716d4597")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "RUN↔PRG"
 		(at 148.25 103.75 90)
 		(layer "F.SilkS")
@@ -3666,7 +3717,7 @@
 		(effects
 			(font
 				(size 1.25 1.25)
-				(thickness 0.25)
+				(thickness 0.2125)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -3679,7 +3730,7 @@
 		(effects
 			(font
 				(size 1.25 1.25)
-				(thickness 0.25)
+				(thickness 0.2125)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -3692,8 +3743,7 @@
 		(effects
 			(font
 				(size 1.6 1.5)
-				(thickness 0.3)
-				(bold yes)
+				(thickness 0.2125)
 			)
 			(justify left bottom)
 		)
@@ -3705,8 +3755,7 @@
 		(effects
 			(font
 				(size 1.6 1.5)
-				(thickness 0.3)
-				(bold yes)
+				(thickness 0.2125)
 			)
 			(justify left bottom)
 		)
@@ -3718,8 +3767,7 @@
 		(effects
 			(font
 				(size 1.6 1.5)
-				(thickness 0.3)
-				(bold yes)
+				(thickness 0.2125)
 			)
 			(justify left bottom)
 		)
