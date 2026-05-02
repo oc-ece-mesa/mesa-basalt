@@ -5923,7 +5923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints2:CONN_8p94X6p5X3p16_12L_GCC"
+		(property "Footprint" "my-kicad-parts:USB4215-03-A"
 			(at 77.47 80.01 0)
 			(hide yes)
 			(show_name no)
