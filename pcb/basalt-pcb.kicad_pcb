@@ -10,7 +10,7 @@
 	(title_block
 		(title "MESA Basalt")
 		(date "2026-05-02")
-		(rev "2")
+		(rev "1")
 		(company "OC ECE MESA")
 	)
 	(layers
@@ -4295,7 +4295,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Basalt Rev1a"
+	(gr_text "Basalt Rev${REVISION}"
 		(at 151.8 92.87 90)
 		(layer "B.SilkS")
 		(uuid "99ee15c9-c07e-4ab2-965f-7885d86faa8d")
