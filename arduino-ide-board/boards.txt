@@ -1,0 +1,6 @@
+basalt.name=MESA Basalt
+basalt.build.mcu=
+basalt.build.f_cpu=
+basalt.build.board=
+basalt.build.core=
+basalt.build.variant=
