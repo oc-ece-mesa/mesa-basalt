@@ -224,7 +224,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "2"
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -645,7 +645,7 @@
         "uuid": "90a9d155-c7f0-4251-930e-2f6f44c45755"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR20-23,H1-4",
     "variants": []
   },
   "sheets": [
