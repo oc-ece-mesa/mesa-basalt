@@ -1,6 +1,6 @@
 basalt.name=MESA Basalt
-basalt.build.mcu=
-basalt.build.f_cpu=
-basalt.build.board=
-basalt.build.core=
-basalt.build.variant=
+basalt.build.mcu=cortex-m0plus
+basalt.build.series=STM32C0xx
+basalt.build.board=basalt
+basalt.build.core=arduino
+basalt.build.variant=basalt

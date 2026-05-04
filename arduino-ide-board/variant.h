@@ -16,13 +16,13 @@
 #define NUM_DIGITAL_PINS  11
 #define NUM_ANALOG_INPUTS 8
 
-#define PIN_SERIAL_RX
-#define PIN_SERIAL_TX
+#define PIN_SERIAL_RX   PA3
+#define PIN_SERIAL_TX   PA2
 
-#define PIN_SPI_SS
-#define PIN_SPI_MOSI
-#define PIN_SPI_MISO
-#define PIN_SPI_SCK
+#define PIN_SPI_SS      PA4
+#define PIN_SPI_MOSI    PA7
+#define PIN_SPI_MISO    PA6
+#define PIN_SPI_SCK     PA5
 
-#define PIN_WIRE_SDA    PA6
-#define PIN_WIRE_SCL    PA7
+#define PIN_WIRE_SDA    PB7
+#define PIN_WIRE_SCL    PB6
