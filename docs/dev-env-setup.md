@@ -11,7 +11,7 @@
    - Select your OS from the dropdown and click “DOWNLOAD”
 
 <p align="center">
-    <img src="images/image1.png" height="250">
+    <img src="dev-env-setup-images/image1.png" height="250">
 </p>
 
 2. Run the installer
@@ -19,13 +19,13 @@
    - In Arduino IDE, under File / Preferences, add `https://github.com/stm32duino/BoardManagerFiles/raw/main/package\_stmicroelectronics\_index.json` to “Additional boards manager URLs”
 
 <p align="center">
-    <img src="images/image2.png" height="250">
+    <img src="dev-env-setup-images/image2.png" height="250">
 </p>
 
 2. Under Tools / Board / Boards Manager… search for and install “STM32 MCU based boards”
 
 <p align="center">
-    <img src="images/image3.png" height="250">
+    <img src="dev-env-setup-images/image3.png" height="250">
 </p>
 
 3. Install STM32CubeProgrammer
@@ -39,25 +39,25 @@
 3. Hover over the dropdown next to the run button and click “Select other board and port…”
 
 <p align="center">
-    <img src="images/image4.png" height="250">
+    <img src="dev-env-setup-images/image4.png" height="250">
 </p>
 
 4. In the pop-up search for and select “Generic STM32C0 series” and then click “OK”.
 
 <p align="center">
-    <img src="images/image5.png" height="250">
+    <img src="dev-env-setup-images/image5.png" height="250">
 </p>
 
 5. Under Tools / Board part number: Select “Generic C071G8Ux”
 
 <p align="center">
-    <img src="images/image6.png" height="250">
+    <img src="dev-env-setup-images/image6.png" height="250">
 </p>
 
 6. Under Tools / Upload method: Select “STM32CubeProgrammer (DFU)”
 
 <p align="center">
-    <img src="images/image7.png" height="250">
+    <img src="dev-env-setup-images/image7.png" height="250">
 </p>
 
 7. Save your sketch with Ctrl \+ S
@@ -74,7 +74,7 @@
 5. Click the “Start Debugging” button. After the upload is complete you should see a success message in the output box and get a notification that the USB device has disconnected.
 
 <p align="center">
-    <img src="images/image8.png" height="250">
+    <img src="dev-env-setup-images/image8.png" height="250">
 </p>
 
 6. Set “PRG SW” to open position
