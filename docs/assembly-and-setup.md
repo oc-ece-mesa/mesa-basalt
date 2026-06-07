@@ -17,7 +17,7 @@
 
 # **Setting Option Bits**
 
-6. Setup your MCUs option bits to allow entering USB bootmode after initial programming
+1. Setup your MCUs option bits to allow entering USB bootmode after initial programming
    - Plug your breadboard into your computer with a USB-C cable
    - Run STM32CubeProgrammer
    - Select “USB” in the dropdown in the upper right corner
@@ -26,14 +26,14 @@
     <img src="assembly-and-setup-images/image1.png" height="250">
 </p>
 
-4. Click the Port refresh button, the port should auto populate as shown
+2. Click the Port refresh button, the port should auto populate as shown
 
 <p align="center">
     <img src="assembly-and-setup-images/image2.png" height="250">
 </p>
 
 
-5. Click “Connect”
+3. Click “Connect”
 
 <p align="center">
     <img src="assembly-and-setup-images/image3.png" height="250">
@@ -47,14 +47,14 @@ You should see the indicator turn green and say “Connected” and the section 
 </p>
 
 
-6. Click on “OB” on the left-hand toolbar and open the “User Configuration” dropdown
+4. Click on “OB” on the left-hand toolbar and open the “User Configuration” dropdown
 
 <p align="center">
     <img src="assembly-and-setup-images/image5.png" height="250">
 </p>
 
 
-7. Scroll down to “nBOOT\_SEL” and uncheck it; then click “Apply”.
+5. Scroll down to “nBOOT\_SEL” and uncheck it; then click “Apply”.
 
 <p align="center">
     <img src="assembly-and-setup-images/image6.png" height="250">
