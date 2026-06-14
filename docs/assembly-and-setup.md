@@ -18,7 +18,7 @@
 # **Setting Option Bits**
 
 1. Setup your MCUs option bits to allow entering USB bootmode after initial programming
-   - Plug your breadboard into your computer with a USB-C cable
+   - Plug your dev board into your computer with a USB-C cable
    - Run STM32CubeProgrammer
    - Select “USB” in the dropdown in the upper right corner
 
@@ -59,5 +59,3 @@ You should see the indicator turn green and say “Connected” and the section 
 <p align="center">
     <img src="assembly-and-setup-images/image6.png" height="250">
 </p>
-
-
